@@ -1,2 +1,2 @@
 # molecular_dynamics
-Simple Molecular Dynamics Examples
+Simple examples of molecular dynamics building blocks written out. 
